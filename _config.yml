@@ -5,7 +5,7 @@ url: https://github.com/jeromelachaud/freelancer-theme
 description: "Welcome to our transformative community of dedicated scientists and scholars on a quest to merge the deep knowledge from the Vedas with cutting-edge scientific advancements. Our primary aim is to illuminate the perfect path toward a happy life, while effortlessly evading diseases and sufferings."
 keywords: "your keywords, separated by commas"
 skills: "We are here to provide solutions for sustainable lifestyle"
-meta_author: LastName FirstName
+meta_author: Jain Pragati
 
 # Google webmaster tools
 google_verify:
@@ -26,13 +26,13 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb:"128,179,255" # "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: The Anuyog Institute
   location: Location
   social: Around the Web
   #credits: Credits
