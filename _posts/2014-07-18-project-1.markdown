@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: NH_Workshop.png
 alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: Natural Healing Workshop from 27th April to 29th April 2024
+description: Natural Healing Workshop from 27th April to 29th April 2024. For more information, visit this video https://www.youtube.com/watch?v=q5Wubpu8tJw
 ---
