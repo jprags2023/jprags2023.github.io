@@ -1,4 +1,4 @@
-![image](https://github.com/jprags2023/jprags2023.github.io/assets/140615706/a06590c8-9eb5-4750-95c7-4affecaa41f0)![image](https://github.com/jprags2023/jprags2023.github.io/assets/140615706/0077a2cb-b39e-40a4-b6a4-67a324eea5e0)---
+---
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -7,6 +7,6 @@ alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: We have covered the blogs covering content on nature cure and sustainable solutions typically provide in-depth information, tips, and insights on natural healing methods, eco-friendly practices, and sustainable living solutions. These blogs often explore topics such as herbal remedies, holistic wellness approaches, organic gardening, renewable energy sources, zero-waste lifestyles, and environmental conservation efforts. They aim to educate readers on adopting healthier lifestyles, reducing their ecological footprint, and promoting harmony with nature for personal and planetary well-being.
+description: We have covered the blogs covering content on nature cure and sustainable solutions typically providing in-depth information, tips, and insights on natural healing methods, eco-friendly practices, and sustainable living solutions. These blogs often explore topics such as natural living, holistic wellness approaches, organic gardening, renewable energy sources, zero-waste lifestyles, and environmental conservation efforts. They aim to educate readers on adopting healthier lifestyles, reducing their ecological footprint, and promoting harmony with nature for personal and planetary well-being.
 
 ---
