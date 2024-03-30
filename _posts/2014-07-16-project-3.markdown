@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: Health_Videos.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: We're all about maximizing health in every aspect - physical, mental, social, and spiritual! 🌟 Elevate your lifestyle and boost your well-being with our expert-reviewed recommendations. We dive into the realms of Natural Sciences, Ayurveda, Agama, Vedanta, curated scientific insights, follower experiences, and the principles of Jainopathy! 📚 Let's explore the secrets of a holistic life together. 🌈
 ---
