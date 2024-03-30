@@ -2,10 +2,10 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: SuccesStories.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: Explore the inspiring journeys of individuals who have embraced a natural lifestyle, discovering how their choices have not only transformed their own lives but also positively impacted the environment. Delve into their stories to understand the unique changes they have made, from adopting natural diet and using eco-friendly products to practicing mindfulness and reconnecting with nature. Discover the ripple effects of their actions, from improved health and well-being to reduced waste and carbon footprint. Gain valuable insights into how small shifts in lifestyle can lead to significant personal and environmental benefits, inspiring you to make positive changes in your own life."
 ---
