@@ -2,10 +2,10 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: Blogs.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: We have covered the blogs covering content on nature cure and sustainable solutions typically provide in-depth information, tips, and insights on natural healing methods, eco-friendly practices, and sustainable living solutions. These blogs often explore topics such as herbal remedies, holistic wellness approaches, organic gardening, renewable energy sources, zero-waste lifestyles, and environmental conservation efforts. They aim to educate readers on adopting healthier lifestyles, reducing their ecological footprint, and promoting harmony with nature for personal and planetary well-being.
 ---
