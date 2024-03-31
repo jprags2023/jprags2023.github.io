@@ -10,3 +10,4 @@ alt: image-alt
 description: "Natural Healing Workshop from 27th April to 29th April 2024. For more information, visit this video: [YouTube Link](https://www.youtube.com/watch?v=q5Wubpu8tJw)"
 youtube_link: "https://www.youtube.com/embed/q5Wubpu8tJw"
 ---
+![Natural Healing Workshop from 27th April to 29th April 2024](http://img.youtube.com/vi/q5Wubpu8tJw/0.jpg)](http://www.youtube.com/watch?v=q5Wubpu8tJw "Natural Healing Workshop from 27th April to 29th April 2024")![image](https://github.com/jprags2023/jprags2023.github.io/assets/140615706/34b58c20-aee8-4b89-9e75-c8443191c49e)
