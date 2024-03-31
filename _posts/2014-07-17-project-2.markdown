@@ -2,10 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
+title: Courses
 img: Courses.png
 alt: image-alt
 #project-date: April 2014
-#client: Start Bootstrap
+client: <iframe width="560" height="315" src="https://www.youtube.com/embed/4gGTkmwZq6M?si=pbb2as6GJwQ9iUs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #category: Web Development
-description: In today's era, where people are focusing on their own benefits even by risking the health of others, we have to take responsibility for our health. Empower yourself, become your own doctor, and save millions of rupees for yourself and your family. Take this step by enrolling in a certified diploma course in Naturopathy and Yoga.
+description: Diploma in Naturopathy and Yoga (NDDY)
 ---
