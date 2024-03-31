@@ -7,7 +7,6 @@ alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: Natural Healing Workshop from 27th April to 29th April 2024. For more information, visit this video https://www.youtube.com/watch?v=q5Wubpu8tJw 
-[Natural Healing Workshop from 27th April to 29th April 2024](https://www.youtube.com/embed/q5Wubpu8tJw?si=ssexyN5Tg5sSPUwE)
+description: Natural Healing Workshop from 27th April to 29th April 2024. For more information, visit this video https://www.youtube.com/watch?v=q5Wubpu8tJw [Natural Healing Workshop from 27th April to 29th April 2024](https://www.youtube.com/embed/q5Wubpu8tJw?si=ssexyN5Tg5sSPUwE)
 
 ---
