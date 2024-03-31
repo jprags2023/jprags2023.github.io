@@ -2,6 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
+title: Health Guidance
 img: HealthGuidance.png
 alt: image-alt
 #project-date: April 2014
