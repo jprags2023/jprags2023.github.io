@@ -9,7 +9,7 @@ alt: image-alt
 #category: Web Development
 image-alt: Headshot
 description: "Natural Healing Workshop from 27th April to 29th April 2024. For more information, visit the below video" 
-#client: <iframe width="560" height="315" src="https://www.youtube.com/embed/q5Wubpu8tJw?si=Aa2PnYP9A3hfnRLP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+client: <iframe width="56" height="31" src="https://www.youtube.com/embed/q5Wubpu8tJw?si=Aa2PnYP9A3hfnRLP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 #category: Web Development
 
 ---
