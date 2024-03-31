@@ -5,7 +5,7 @@ date: 2014-07-18
 img: Workshops.png
 alt: image-alt
 #project-date: April 2014
-Youtube Video: <a href='https://spacelift.io/blog/yaml'> Natural Healing Workshop</a>
+Client: <iframe width="560" height="315" src="https://www.youtube.com/embed/q5Wubpu8tJw?si=Aa2PnYP9A3hfnRLP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #category: Web Development
 description: "Natural Healing Workshop from 27th April to 29th April 2024. For more information"
 
