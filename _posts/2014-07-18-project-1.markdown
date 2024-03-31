@@ -7,6 +7,5 @@ alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: Natural Healing Workshop from 27th April to 29th April 2024. For more information, visit this video https://www.youtube.com/embed/q5Wubpu8tJw?si=ssexyN5Tg5sSPUwE 
-youtube_link: [![Natural Healing Workshop from 27th April to 29th April 2024](https://res.cloudinary.com/marcomontalbano/image/upload/v1711867547/video_to_markdown/images/youtube--q5Wubpu8tJw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=q5Wubpu8tJw "Natural Healing Workshop from 27th April to 29th April 2024")
+description: "Natural Healing Workshop from 27th April to 29th April 2024. For more information, visit this video [YouTube Link](https://www.youtube.com/watch?v=q5Wubpu8tJw)"
 ---
